@@ -22,7 +22,6 @@ import { AppComponent } from './app.component';
     AppRoutingModule,
     BrowserModule,
     BrowserAnimationsModule,
-    CoreDataModule,
     HttpClientModule,
     LayoutModule,
     NxModule.forRoot(),

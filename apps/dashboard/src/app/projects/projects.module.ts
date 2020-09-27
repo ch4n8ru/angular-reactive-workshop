@@ -18,6 +18,7 @@ import { CoreDataModule } from '@workshop/core-data';
     FormsModule,
     CoreDataModule
   ],
+
   declarations: [
     ProjectsComponent,
     ProjectsListComponent,
